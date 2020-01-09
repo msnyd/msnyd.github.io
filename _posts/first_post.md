@@ -1,3 +1,11 @@
+---
+layout: post
+title: First post!
+image: /img/hello_world.jpeg
+---
+
+This is my first post, how exciting!
+
 <html>
 <head><meta charset="utf-8" /></head>
 <body>
