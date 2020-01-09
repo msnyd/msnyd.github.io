@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: To be
 subtitle: ... or not to be?
@@ -39,4 +39,4 @@ And enterprise of great pitch and moment
 With this regard their currents turn awry
 And lose the name of action. -- Soft you now,
 The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+Be all my sins remembered. -->
