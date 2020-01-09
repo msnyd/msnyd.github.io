@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does the NBA Draft determine the success of a player's career?
-image: /img/nba-logo.jpeg
+image: assets\images\nba-logo.jpeg
 ---
 
 To those who aren’t familiar, the NBA draft is an annual event in which teams from the National Basketball Association (NBA) can draft players who are eligible and wish to join the league.  These normally consist of college basketball however international players are also eligible to be drafted into the league.  With this in mind, the teams who would receive the first pick in the draft would have a better chance at picking a generational talent such someone like Lebron James.  While a lot of math goes into the pick order of the Lottery, the long and short of it is the teams with the worst record have a higher chance at getting a higher pick.  With all this in mind, this gives hope to the worst teams in the NBA as they have a higher chance at getting a higher pick in the draft, allowing them to have higher odds at drafting a superstar talent.  But how accurate are scouting reports at showing the potential of a player’s career?  Well let’s look at the data but first I think an important question to ask is how do we determine success as an NBA player?
