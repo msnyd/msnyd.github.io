@@ -40,6 +40,7 @@ Everyone likes a good underdog story, however the data might tell us a different
 </body>
 </html>
 
+A dataset that spans from 1975-2015 shows an obvious bias towards the higher picks.  Though, this graph shows us the magnitude a player had on their respective league and shows us the superstars in the higher picks such as Shaquille O’Neal, Hakeem Olajuwon, Lebron James who all have made 10+ all star games in their careers.  What does the graph look like if we took out the outliers and put everyone on equal footing?
 
 <html>
 <head><meta charset="utf-8" /></head>
@@ -66,3 +67,6 @@ Everyone likes a good underdog story, however the data might tell us a different
         </div>
 </body>
 </html>
+
+Now with the unweighted graph, you can more clearly see  players who were all stars but maybe just didn’t reach that super star level.  Most notably, players like Manu Ginobili who is sitting at pick number 57 with 2 all star games under his belt, similar to Marc Gasol who is with another 2 all star games.  However while there are outliers who are far out into the second round picks (picks between 31 and 60) there is a still clear bias towards the people who drafted higher in the pick order.
+Out of the 118 total players who were All Stars in the last 40 years, 84 of them were drafted in the first 10 picks.  Extending that to the entire first round draft picks (picks between 1 and 30), 111 players were drafted in the first round, leaving only 7 players who were drafted in the second round.
