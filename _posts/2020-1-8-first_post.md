@@ -69,4 +69,7 @@ A dataset that spans from 1975-2015 shows an obvious bias towards the higher pic
 </html>
 
 Now with the unweighted graph, you can more clearly see  players who were all stars but maybe just didn’t reach that super star level.  Most notably, players like Manu Ginobili who is sitting at pick number 57 with 2 all star games under his belt, similar to Marc Gasol who is with another 2 all star games.  However while there are outliers who are far out into the second round picks (picks between 31 and 60) there is a still clear bias towards the people who drafted higher in the pick order.
+
 Out of the 118 total players who were All Stars in the last 40 years, 84 of them were drafted in the first 10 picks.  Extending that to the entire first round draft picks (picks between 1 and 30), 111 players were drafted in the first round, leaving only 7 players who were drafted in the second round.
+
+## What does this mean?
