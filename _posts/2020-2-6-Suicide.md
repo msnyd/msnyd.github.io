@@ -46,3 +46,5 @@ Looking at this graph of the top six countries with the highest suicide rates, i
 Let's take a look at the most important features of the dataset so we can see which features  played the most important role in getting us to our solution:
 
 ![Accuracy-Score](/assets/images/top-features.png){:class="img-responsive"}
+
+Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level.
