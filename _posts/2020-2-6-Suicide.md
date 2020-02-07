@@ -39,4 +39,5 @@ In the age of social media, instant information, and an existential feeling of u
 </body>
 </html>
 
-Looking at this graph of the top six countries with the highest suicide rates, it only appears that the United States is trending upwards
+Looking at this graph of the top six countries with the highest suicide rates, it only appears that the United States is trending upwards.  My goal of this project was to be able to predict suicide levels in the coming future, however I realized this would be an issue as my predictions were based on data that we wouldn't have.  However, using a Random Forest Regressor to predict my validation set, I was able to predict the number of suicides a country would within a 70.52% margin.
+![Accuracy-Score](/assets/images/2020-02-07 03_47_35-data-exploration.ipynb_ - Untitled (Workspace) - Visual Studio Code.png){:class="img-responsive"}
