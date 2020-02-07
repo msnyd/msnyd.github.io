@@ -4,7 +4,9 @@ title: A Glimpse into Global Suicide Levels
 image: /assets/images/suicide-clip-art.jpg
 ---
 
-In the age of social media, instant information, and an existential feeling of unease amongst the population of developed countries has seemingly become more and more concerning, esspecially when looking at younger people.  With more information however, becomes a more informed population so maybe suicide rates in countries have been staying at the same rate, but we have just become more aware to the situation. Let us take a look at rates of the most suicidal countries.
+### Exploration
+
+In the age of social media, instant information, and an existential feeling of unease amongst the population of developed countries has seemingly become more and more concerning, esspecially when looking at younger people.  With more information however, becomes a more informed population so maybe suicide rates in countries have been staying at the same rate, but we have just become more aware to the situation. Let us take a look at rates of the most suicidal countries per 100 thousand.
 <html>
 <head><meta charset="utf-8" /></head>
 <body>
@@ -36,3 +38,5 @@ In the age of social media, instant information, and an existential feeling of u
         </div>
 </body>
 </html>
+
+Looking at this graph of the top six countries with the highest suicide rates, it only appears that the United States is trending upwards
