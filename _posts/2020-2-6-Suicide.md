@@ -4,9 +4,10 @@ title: A Glimpse into Global Suicide Levels
 image: /assets/images/suicide-clip-art.jpg
 ---
 
-### Exploration
+## D Exploration
 
 In the age of social media, instant information, and an existential feeling of unease amongst the population of developed countries has seemingly become more and more concerning, esspecially when looking at younger people.  With more information however, becomes a more informed population so maybe suicide rates in countries have been staying at the same rate, but we have just become more aware to the situation. Let us take a look at rates of the most suicidal countries per 100 thousand.
+
 <html>
 <head><meta charset="utf-8" /></head>
 <body>
@@ -47,6 +48,8 @@ Let's take a look at the most important features of the dataset so we can see wh
 
 ![Accuracy-Score](/assets/images/top-features.png){:class="img-responsive"}
 
-Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level.  Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal of predicting a country's suicide rates heading into the future
+Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level. 
+
+Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal of predicting a country's suicide rates heading into the future.  This does not mean it is impossible to predict, as it is possible to predict all these features in a year such as 2030 and if I wasn't cruched for time, I would have done that.  With that being said, I intend on revisiting this project in the future and hopfully I am able to draw more conclusions.
 
 <iframe src="https://ourworldindata.org/grapher/share-deaths-suicide?tab=chart&year=2009&country=USA" style="width: 100%; height: 600px; border: 0px none;"></iframe>
