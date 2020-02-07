@@ -47,4 +47,6 @@ Let's take a look at the most important features of the dataset so we can see wh
 
 ![Accuracy-Score](/assets/images/top-features.png){:class="img-responsive"}
 
-Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level.
+Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level.  Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal of predicting a country's suicide rates heading into the future
+
+<iframe src="https://ourworldindata.org/grapher/share-deaths-suicide?tab=chart&year=2009&country=USA" style="width: 100%; height: 600px; border: 0px none;"></iframe>
