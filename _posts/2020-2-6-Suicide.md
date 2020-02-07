@@ -42,6 +42,8 @@ In the age of social media, instant information, and an existential feeling of u
 
 Looking at this graph of the top six countries with the highest suicide rates, it only appears that the United States is trending upwards.  My goal of this project was to be able to predict suicide levels in the coming future, however I realized this would be an issue as my predictions were based on data that we wouldn't have.  However, using a Random Forest Regressor to predict my validation set, I was able to predict the number of suicides a country would within a 70.52% margin.
 
+## Which Features were the Most Important?
+
 ![Accuracy-Score](/assets/images/2020-02-07 03_47_35-data-exploration.ipynb_ - Untitled (Workspace) - Visual Studio Code.png){:class="img-responsive"}
 
 Let's take a look at the most important features of the dataset so we can see which features  played the most important role in getting us to our solution:
@@ -50,6 +52,8 @@ Let's take a look at the most important features of the dataset so we can see wh
 
 Let's take a look at what this graph is telling us.  This graph shows us which features had the highest amount of relevance when evaluating the Suicide Rate/100 thousand people for each country.  As you can see, population is still on top, followed closely by age and GDP per capita, or how wealthy a country is.  This means if we were given these features for something like year 2030, our model could predict the suicide rates for every country with a 70% confidence level. 
 
-Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal of predicting a country's suicide rates heading into the future.  This does not mean it is impossible to predict, as it is possible to predict all these features in a year such as 2030 and if I wasn't cruched for time, I would have done that.  With that being said, I intend on revisiting this project in the future and hopfully I am able to draw more conclusions.
+## The Problems I Ran Into
 
-<iframe src="https://ourworldindata.org/grapher/share-deaths-suicide?tab=chart&year=2009&country=USA" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Heading into this project, I had a bias that as we were getting more technologically advanced, society would see a change in mental health, especially amongst the younger genrations and I had a feeling this was an upward trend and would continue to upwardly trend.  However the data seems to suggest a different story here as it seems that suicide (I should note that this data set is intentional or not) has always been a problem and seems to even be trending downward in many of the countries with the highest suicide rates.  This is due to a multitude of factors however as we and those things were not demonstrated in my dataset.  
+
+Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal.  This does not mean it is impossible to predict, as it is possible to predict all these features in a year such as 2030 and if I wasn't cruched for time, I would have done that.  With that being said, I intend on revisiting this project in the future and hopfully I am able to draw more conclusions.
