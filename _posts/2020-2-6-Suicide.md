@@ -4,7 +4,7 @@ title: A Glimpse into Global Suicide Levels
 image: /assets/images/suicide-clip-art.jpg
 ---
 
-## D Exploration
+## Data Exploration
 
 In the age of social media, instant information, and an existential feeling of unease amongst the population of developed countries has seemingly become more and more concerning, esspecially when looking at younger people.  With more information however, becomes a more informed population so maybe suicide rates in countries have been staying at the same rate, but we have just become more aware to the situation. Let us take a look at rates of the most suicidal countries per 100 thousand.
 
@@ -57,3 +57,7 @@ Let's take a look at what this graph is telling us.  This graph shows us which f
 Heading into this project, I had a bias that as we were getting more technologically advanced, society would see a change in mental health, especially amongst the younger genrations and I had a feeling this was an upward trend and would continue to upwardly trend.  However the data seems to suggest a different story here as it seems that suicide (I should note that this data set is intentional or not) has always been a problem and seems to even be trending downward in many of the countries with the highest suicide rates.  This is due to a multitude of factors however as we and those things were not demonstrated in my dataset.  
 
 Unfortunately since I wasn't able to know the future, I wasn't able to reach my intended goal.  This does not mean it is impossible to predict, as it is possible to predict all these features in a year such as 2030 and if I wasn't cruched for time, I would have done that.  With that being said, I intend on revisiting this project in the future and hopfully I am able to draw more conclusions.
+
+## What to Take Away
+
+Suicide is often a difficult topic to approach as a lot of different factors go into one's mental health and even more so the suicide rate of a country.  In countries such as Russia and the Ukraine, they underwent a massive shift in government and Japan has many cultural issues that plague mental health, some things are are very difficult to represent in standard data frames, and harder still for a machine learning algorithm to pick up on that and use it effectively.  But this does not make it impossible and with the right data, we could find some underlying issues that plague humanity's mental health.
