@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A bit about myself!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Matthew Snyder,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+While my history with coding goes a ways back, I just started taking seriously in the middle of 2019. I started my own game and then soon started working towards the path of a data scientist. I signed up for Lambda School at the end of last year for the Data Scientist path and I recently graduated.  Since then I have been applying to jobs and competeing in Kaggle competitions.  I will show my progress in the posts however it takes time to update.
 
-What else do you need?
+
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
