@@ -11,5 +11,6 @@ While my history with coding goes a ways back, I just started taking seriously i
 Thanks for reading a bit about myself! If you would like to contact me about a job offer or a inquiry, you can find my contact information below or click the links at the bottom of the page!
 
 Phone Number: (217) 377-8783
+
 E-mail: msnyder97@gmail.com
 
