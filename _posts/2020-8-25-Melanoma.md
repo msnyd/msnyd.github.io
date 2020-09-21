@@ -12,5 +12,7 @@ Examples WITH Melanoma
 
 ![Example WITH Melanoma](/assets/images/Melanoma/WXitrw2.png){:class="img-responsive"}
 
-
 Examples WITHOUT Melanoma
+
+![Example WITHOUT Melanoma](/assets/images/Melanoma/tmZmY8H.png){:class="img-responsive"}
+
