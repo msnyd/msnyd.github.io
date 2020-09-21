@@ -127,7 +127,7 @@ I wasn't sure how to go about trying how to predict Melanomas as I haven't been 
 If you're interesting in the code, I won't explain it but I will leave my work below:
 
 <details>
-<summary>Click to expand!</summary>
+<summary>Data Augmentation</summary>
 <p>
 
 ```python
