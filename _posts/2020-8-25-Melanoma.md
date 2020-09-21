@@ -10,7 +10,7 @@ In this competition I competed in, we need to identify melanoma in images of ski
 
 ''' Examples WITH Melanoma '''
 
-![image info](.img/Melanoma/WXitrw2.png)
+![Example WITH Melanoma](assets\images\Melanoma\WXitrw2.png){:class="img-responsive"}
 
 
 ~~~ Examples WITHOUT Melanoma
