@@ -8,9 +8,9 @@ Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is res
 
 In this competition I competed in, we need to identify melanoma in images of skin lesions. This is a very challenging image classification task as seen by looking at the sample images below. Can you recognize the differences between images? Below are example of skin images with and without melanoma.
 
-~~~ Examples WITH Melanoma ~~~
+''' Examples WITH Melanoma '''
 
-![image info](img\Melanoma\WXitrw2.png)
+![image info](.img/Melanoma/WXitrw2.png)
 
 
 ~~~ Examples WITHOUT Melanoma
