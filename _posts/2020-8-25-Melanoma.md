@@ -127,7 +127,7 @@ I wasn't sure how to go about trying how to predict Melanomas as I haven't been 
 If you're interesting in the code, I won't explain it but I will leave my work below:
 
 <details>
-<summary>Data Augmentation</summary>
+<summary>Data Augmentation!</summary>
 <p>
 
 ```python
@@ -284,3 +284,20 @@ def get_dataset(files, augment = False, shuffle = False, repeat = False,
 
 </p>
 </details>
+
+<details>
+<summary>I could use some help...</summary>
+<p>
+
+```c#
+public class Order
+{
+    public int OrderId { get; set; }
+    public int CustomerId { get; set; }
+
+    public List<int> Products { get; set; }
+}
+\```
+
+</p>
+</details>  
