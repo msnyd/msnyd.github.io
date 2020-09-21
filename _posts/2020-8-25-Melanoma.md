@@ -126,7 +126,11 @@ I wasn't sure how to go about trying how to predict Melanomas as I haven't been 
 
 If you're interesting in the code, I won't explain it but I will leave my work below:
 
-```python {echo=FALSE}
+<details>
+  <summary>Click to expand!</summary>
+
+
+```python
 ROT_ = 180.0
 SHR_ = 2.0
 HZOOM_ = 8.0
@@ -277,3 +281,5 @@ def get_dataset(files, augment = False, shuffle = False, repeat = False,
     ds = ds.prefetch(AUTO)
     return ds
 ```
+
+</details>
