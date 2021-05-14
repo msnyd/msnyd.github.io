@@ -19,7 +19,7 @@ Examples WITHOUT Melanoma
 For this specific competition, we are going to use Stratified KFold cross-validator method for predicting our data.
 
 ## What is KFold?
-Cross-validaation is a resampling procedure used to evaluate machine learning models on a limited data sample. This procedure has a single parameter called K that refers to the number opf groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. So what is stratification? Stratification refers to the process of rearranging data as to ensure each fold is a good representation of the whole. So when we put these together, a Stratified KFold is when your model shuffles your data then splits that daata into n_splits.
+Cross-validaation is a resampling procedure used to evaluate machine learning models on a limited data sample. This procedure has a single parameter called K that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. So what is stratification? Stratification refers to the process of rearranging data as to ensure each fold is a good representation of the whole. So when we put these together, a Stratified KFold is when your model shuffles your data then splits that data into n_splits.
 
 ## Configurations
 
@@ -83,7 +83,7 @@ WGTS = [1/FOLDS]*FOLDS
 TTA = 11
 ```
 
-Since I will be using a TPU (Tensor Processing Unit) to run my model, I'll save my configurations on something called TFRecords. 
+Since I will be using a TPU (Tensor Processing Unit) to run my model, I'll save my configurations on something called TFRecords. This is basically Tensorflow's own binary storage format. This is beneficial because large datasets can have a significant impact on the performance of your pipeline. Binary data takes up less memory and runs at much greater efficiency.
 
 ```python
 if DEVICE == "TPU":
@@ -124,7 +124,7 @@ print(f'REPLICAS: {REPLICAS}')
 
 I wasn't sure how to go about trying how to predict Melanomas as I haven't been to medschool, so after looking at some kernals online, I saw many people were adjusting rotation, zoom and shift augmentation to alter their images. Or they were moving around their images and zooming in on certain parts. This gave me the idea of messing with hue, saturaation, contrast and brightness augmentation, so our notebook includes both moving around the images and messing with the color and contrast of the images to better help our model make more accurate predictions.
 
-If you're interesting in the code, I won't explain it but I will leave my work below:
+If you're interested in the code, I won't explain it but I will leave my work below:
 
 ```python
 ROT_ = 180.0
@@ -279,4 +279,4 @@ def get_dataset(files, augment = False, shuffle = False, repeat = False,
 ```
 
 
- zx 
+ cont 
